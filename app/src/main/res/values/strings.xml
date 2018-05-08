@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">WebViewFlingScrollDemo</string>
+	<string name="input_velocity_y">input velocity y</string>
+	<string name="fling_scroll">flingScroll:</string>
+	<string name="reset_scroll">reset scroll</string>
+	<string name="current_y">webview scrolled: %d pixel</string>
+	<string name="chrome_version">chrome v%s</string>
+</resources>
